@@ -20,7 +20,7 @@ author: Welcome to PSU - All Rights Reserved
 ###############################################
 
 navbar-links:
-  Company Info: "main\aboutme"
+  Company Info: "main/aboutme"
   Announcement: "announcement" 
   Other Documents:
     - Financial Report: "financialreport"
