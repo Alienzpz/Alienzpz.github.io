@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About us
-subtitle: The biggest global iron ore trader
+title: 公司資料
 ---
 
 <table>
@@ -18,7 +17,7 @@ subtitle: The biggest global iron ore trader
     <td><strong>執行董事</strong><br>江江<br>吳磊</td>
   </tr>
   <tr>
-    <strong>非執行董事</strong><br>丁琳<br>康健</td>
+    <td><strong>非執行董事</strong><br>丁琳<br>康健</td>
   </tr>
   <tr>
     <td><strong>獨立非執行董事</strong><br>柳松<br>陳麗屏<br>黃學斌</td>
