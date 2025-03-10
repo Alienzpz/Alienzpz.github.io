@@ -21,10 +21,10 @@ author: Welcome to PSU - All Rights Reserved
 
 navbar-links:
   Company Info: "aboutme"
-  Announcement: "" 
+  Announcement: "announcement" 
   Other Documents:
-    - Financial Report: ""
-    - Manner For Dissemination Of Corporate Communications To The Shareholders: ""
+    - Financial Report: "financialreport"
+    - Manner For Dissemination Of Corporate Communications To The Shareholders: "methodofcommunications"
 
 ################
 # --- Logo --- #
